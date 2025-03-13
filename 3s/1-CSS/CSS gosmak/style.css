@@ -1,0 +1,18 @@
+body {
+    background-color: aqua;
+}
+
+div {
+    color: white;
+    background-color: black;
+}
+
+.uytget {
+    color: yellowgreen;
+    background-color: red;
+}
+
+#cals {
+    color: black;
+    background-color: yellow;
+}

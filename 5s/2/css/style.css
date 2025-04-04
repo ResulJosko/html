@@ -1,0 +1,42 @@
+.container-sm {
+    max-width: 768px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-center {
+    text-align: center;
+}
+.h5 {
+    font-size: 20px;
+}
+.fw-bold {
+    font-weight: bold;
+}
+.w-100 {
+    width: 100%;
+}
+.py-4 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.text-white {
+    color: white;
+}
+.bg-green {
+    background-color: green;
+}
+.border-green {
+    border: 1px solid green
+}
+.bred {
+    background-color: red;
+}
+.text-cancel {
+    color: white;
+}
+.border-red {
+    border: 1px solid red;
+}
+.text-end {
+    text-align: end;
+}

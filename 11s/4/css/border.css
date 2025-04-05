@@ -18,6 +18,10 @@
     border-radius: 32px;
 }
 
+.rounded-6 {
+    border-radius: 164px;
+}
+
 .border {
     border: 1px solid #9E9E9E;
 }

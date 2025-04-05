@@ -11,16 +11,25 @@ input:hover {
     border: 1px solid #616161;
 }
 
+.tm-input {
+    background: transparent;
+    border: 2px solid white;
+}
+
+::placeholder {
+    color: white;
+}
+
 .btn {
-    color: #f1f1f1;
+    color: #424242;
     display: inline-block;
     vertical-align: middle;
     font-weight: bold;
     padding: 8px 32px;
     border-radius: 4px;
     transition: 0.5s;
-    background-color: rgb(38, 138, 54);
-    border: 1px solid rgb(44, 156, 44);
+    background-color: #E0E0E0;
+    border: 1px solid #9E9E9E;
 }
 
 .btn:hover {

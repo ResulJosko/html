@@ -19,6 +19,9 @@
     background-color: rgba(176, 43, 206, 0.5);
 }
 
+.text-blue {
+    color: #737AEE
+}
 
 .glow-on-hover {
     width: 150px;
